@@ -3,3 +3,6 @@ docs/.hugo_build.lock
 dictionary.dic
 docs/static/swagger/**
 .DS_STORE
+
+# node_modules
+node_modules

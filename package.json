@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prompt-ops/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prompt-ops/docs/issues"
+  },
+  "homepage": "https://github.com/prompt-ops/docs#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20"
+  }
+}
