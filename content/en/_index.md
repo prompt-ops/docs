@@ -9,7 +9,7 @@ Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/prompt-ops/pops">
 Contribute <i class="fas fa-pencil-alt ms-2"></i>
 </a>
-<a class="btn btn-lg btn-info me-3 mb-4" href="/reference/cli/pops/">
+<a class="btn btn-lg btn-info me-3 mb-4" href="/docs/reference/cli/pops/">
 pops CLI Reference <i class="fas fa-terminal ms-2"></i>
 </a>
 

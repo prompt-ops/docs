@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prompt-Ops</title>
-    <link>https://pops.sh/</link>
-    <description>Recent content on Prompt-Ops</description>
+    <title>References on Prompt-Ops</title>
+    <link>https://pops.sh/reference/</link>
+    <description>Recent content in References on Prompt-Ops</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://pops.sh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pops.sh/reference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pops CLI reference</title>
       <link>https://pops.sh/reference/cli/pops/</link>
